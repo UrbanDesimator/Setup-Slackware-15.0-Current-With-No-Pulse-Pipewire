@@ -1,5 +1,6 @@
 # Slackware-15.0-Current Alsa-With-No-Pulse-Pipewire
-Information and config guide to use Slackware-15.0/Current with no pulseaudio or pipewire. Using  Alsa and Jackd
+
+Information and configuration guide to use Slackware-15.0/Current with no pulseaudio or pipewire. Using Alsa and Jackd
 
 Slackware is a registered trade mark of Patrick volkerding.
 
